@@ -1,4 +1,4 @@
-# PDF Splitter & Text-Extractor
+# PDF Splitter & Text Extractor
 This command-line utility splits PDF files based on a code seperator, extracts Arabic and English text from PDF files using Tesseract OCR, and writes the pages to an Excel file. The output is used to search for data in files.
 
 ## Usage
